@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Venkatreddy Software Solutions. chilamathur,andhrapradesh </h1>
-<h1 align="center"> Venkatareddt Software Solutions- Very Good Training center for DevOps with AWS in chilamathur anantapur India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center"> Venkatareddy Software Solutions- Very Good Training center for DevOps with AWS in chilamathur anantapur India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
